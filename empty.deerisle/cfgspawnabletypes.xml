@@ -4039,4 +4039,23 @@
 		  <item name="SparkPlug" chance="1.0" />
 		</attachments>
 	</type>
+		<type name="ScientificBriefcase">
+		<damage min="0.0" max="0.0" />
+		<cargo chance="1.0">
+			<item name="StarlightOptic" />
+		</cargo>		
+		<cargo chance="1.0">
+			<item name="TetracyclineAntibiotics" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="GlowPlug" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="jmc_SnowOwlAmmo" />
+		</cargo>
+		<hoarder />
+	</type>
 </spawnabletypes>
