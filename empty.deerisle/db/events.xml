@@ -72,7 +72,7 @@
         </children>
     </event>
 	<event name="AmbientPolarbear">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <min>1</min>
         <max>2</max>
         <lifetime>180</lifetime>
@@ -838,10 +838,10 @@
     </event>
     <event name="StaticScientist">
         <nominal>1</nominal>
-        <min>0</min>
-        <max>0</max>
+        <min>1</min>
+        <max>1</max>
         <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <saferadius>300</saferadius>
         <distanceradius>300</distanceradius>
         <cleanupradius>300</cleanupradius>
