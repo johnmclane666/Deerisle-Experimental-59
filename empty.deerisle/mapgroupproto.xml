@@ -22225,7 +22225,7 @@
 			<usage name="Special" />							
 			<category name="KMUCKeycard" />			
 			<container name="lootFloor" lootmax="1">													
-				<point pos="0.0 0.5 0.0" range="0.359375" height="1.023438" flags="32" />			
+				<point pos="0.0 0.35 0.0" range="0.35" height="1.0" />			
 			</container>				
 		</group>		
 		

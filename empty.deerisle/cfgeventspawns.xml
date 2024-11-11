@@ -573,19 +573,18 @@
 		<pos x="8964.531250" z="12637.794922" a="0" y="7.977860" group="Train8"/>
 		<pos x="6687.965820" z="13550.395508" a="0" y="7.881456" group="Train9"/>
 	</event>		
-		<event name="StaticScientist">
-				<zone smin="0" smax="0" dmin="1" dmax="1" r="20" />
-				<pos x="9374.655273" z="12173.3623051" a="0.000000" group="Scientist"/> 
-				<pos x="9485.165039" z="11967.1562501" a="0.000000" group="Scientist"/>
-				<pos x="9491.120117" z="12025.9082031" a="0.000000" group="Scientist"/>
-				<pos x="9503.293945" z="12111.2216801" a="0.000000" group="Scientist"/>
-				<pos x="9602.343750" z="12196.8242191" a="0.000000" group="Scientist"/>
-				<pos x="10345.610352" z="11395.258789" a="0.000000" group="Scientist"/>
-				<pos x="10415.784180" z="11256.361328" a="0.000000" group="Scientist"/>
-				<pos x="10418.304688" z="11441.500977" a="0.000000" group="Scientist"/>
-				<pos x="10451.082031" z="11372.433594" a="0.000000" group="Scientist"/>
-				<pos x="10477.754883" z="11476.423828" a="0.000000" group="Scientist"/>
-		</event>	
+	<event name="StaticScientist">
+		<zone smin="0" smax="0" dmin="1" dmax="1" r="20" />		
+		<pos x="14073.36" y="171.764725" z="15716.28" a="0" 		group="Scientist"/>
+		<pos x="13855.63" y="2.680000"   z="12654.31" a="119.4437"  group="Scientist"/>
+		<pos x="14467.78" y="280.337799" z="15681.36" a="78.63846"  group="Scientist"/>
+		<pos x="15568.67" y="235.720001" z="13837.29" a="204.7857"  group="Scientist"/>
+		<pos x="13422.39" y="158.775162" z="13035.44" a="327.5133"  group="Scientist"/>
+		<pos x="12835.39" y="3.037384"   z="12917.09" a="360" 		group="Scientist"/>
+		<pos x="13511.98" y="196.405045" z="14745.05" a="235.3387"	group="Scientist"/>
+		<pos x="14723.05" y="251.536926" z="13777.5"  a="217.1616" 	group="Scientist"/>
+		<pos x="14942.45" y="187.293350" z="13602.87" a="73.86858" 	group="Scientist"/>			
+	</event>	
 	<event name="StaticAirplaneCrate">
 		<zone smin="0" smax="0" dmin="0" dmax="0" r="0" />
 		<pos x="4260.953" z="7065.536" a="291.5459" />
