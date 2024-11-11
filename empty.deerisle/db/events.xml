@@ -818,9 +818,9 @@
         <children/>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>4</nominal>
-        <min>4</min>
-        <max>4</max>
+        <nominal>5</nominal>
+        <min>5</min>
+        <max>5</max>
         <lifetime>1200</lifetime>
         <restock>0</restock>
         <saferadius>400</saferadius>
@@ -837,9 +837,9 @@
         </children>
     </event>
     <event name="StaticScientist">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>1</max>
+        <nominal>5</nominal>
+        <min>5</min>
+        <max>5</max>
         <lifetime>1800</lifetime>
         <restock>3600</restock>
         <saferadius>300</saferadius>
@@ -847,7 +847,7 @@
         <cleanupradius>300</cleanupradius>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
-        <limit>child</limit>
+        <limit>mixed</limit>
         <active>1</active>
         <children/>
     </event>	
@@ -1270,9 +1270,9 @@
   </event>    		
 
     <event name="StaticSurvivorCamps">
-        <nominal>4</nominal>
-        <min>4</min>
-        <max>4</max>
+        <nominal>5</nominal>
+        <min>5</min>
+        <max>5</max>
         <lifetime>1200</lifetime>
         <restock>0</restock>
         <saferadius>400</saferadius>
@@ -1286,9 +1286,9 @@
         <children/>            
     </event>  
 	<event name="StaticConvoys">
-        <nominal>3</nominal>
-        <min>3</min>
-        <max>3</max>
+        <nominal>4</nominal>
+        <min>4</min>
+        <max>4</max>
         <lifetime>1200</lifetime>
         <restock>0</restock>
         <saferadius>400</saferadius>
@@ -1302,9 +1302,9 @@
         <children/>            
     </event>  
 	<event name="StaticPoliceCheckpoints">
-        <nominal>3</nominal>
-        <min>3</min>
-        <max>3</max>
+        <nominal>4</nominal>
+        <min>4</min>
+        <max>4</max>
         <lifetime>1200</lifetime>
         <restock>0</restock>
         <saferadius>400</saferadius>
@@ -1318,9 +1318,9 @@
         <children/>            
     </event>  	
 	<event name="StaticWreckedTrains">
-        <nominal>3</nominal>
-        <min>3</min>
-        <max>3</max>
+        <nominal>4</nominal>
+        <min>4</min>
+        <max>4</max>
         <lifetime>1200</lifetime>
         <restock>0</restock>
         <saferadius>400</saferadius>
