@@ -20653,7 +20653,14 @@
 						<point pos="0.000000 0.200000 0.000000" range="0.9" height="1.5" /> 
 				</container>				
 		</group>
-		
+		<group name="Land_jmc_skeleton_staffspawn" lootmax="1">				
+				<usage name="Staff" />
+				<container name="lootFloor" lootmax="1">						
+						<category name="weapons" />						
+						<tag name="floor" />
+						<point pos="0.000000 0.200000 0.000000" range="1.3" height="1.5" /> 
+				</container>				
+		</group>
 
 		<group name="Land_jmc_ztower" lootmax="10">
 			<usage name="Village" />								
