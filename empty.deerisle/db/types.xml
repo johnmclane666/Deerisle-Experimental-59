@@ -17631,6 +17631,11 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier2" />
+    <value name="Tier1" />
   </type>
   <type name="PoliceJacketOrel">
     <nominal>20</nominal>
@@ -17643,6 +17648,11 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier2" />
+    <value name="Tier1" />
   </type>
   <type name="PolicePants">
     <nominal>30</nominal>
@@ -17655,6 +17665,11 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier2" />
+    <value name="Tier1" />
   </type>
   <type name="PolicePantsOrel">
     <nominal>20</nominal>
@@ -17667,6 +17682,11 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="clothes" />
     <usage name="Police" />
+    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier2" />
+    <value name="Tier1" />
   </type>
   <type name="PoliceVest">
     <nominal>15</nominal>
@@ -27640,9 +27660,40 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="weapons" />
     <value name="Tier8" />
     <value name="Tier9" />
+    <usage name="Military" />
+  </type>
+  <type name="STAG_BalaclavaMask">
+    <nominal>12</nominal>
+    <lifetime>14400</lifetime>
+    <restock>7200</restock>
+    <min>6</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+    <category name="clothes" />
+    <value name="Tier4" />
+    <value name="Tier5" />
+    <value name="Tier6" />
+    <value name="Tier7" />
+    <value name="Tier8" />
+    <value name="Tier9" />
+    <usage name="Military" />
+  </type>
+  <type name="STAG_Clothing_BallisticHelmet">
+    <nominal>2</nominal>
+    <lifetime>14400</lifetime>
+    <restock>14400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    <category name="clothes" />
+    <value name="Tier8" />
     <usage name="Military" />
   </type>
   <type name="STAG_Clothing_6sh118">
@@ -27705,7 +27756,7 @@
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-    <category name="tools" />
+    <category name="clothes" />
     <value name="Tier3" />
     <value name="Tier4" />
     <value name="Tier5" />
