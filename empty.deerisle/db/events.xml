@@ -1026,9 +1026,9 @@
         </children>
     </event>
 	<event name="VehicleBoat">
-        <nominal>10</nominal>
-        <min>8</min>
-        <max>10</max>
+        <nominal>12</nominal>
+        <min>9</min>
+        <max>12</max>
         <lifetime>6000</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
